@@ -8,3 +8,27 @@ h1{
 div p{
     color: rgb(211, 245, 245);
 }
+#parrafo_behringer{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(41, 40, 40);
+}
+.parrafos{
+    color: blue;
+    font-style: italic;
+}
+a, img{
+    display: block;
+}
+a{
+    margin: 40px 20px;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: azure;
+}
+img{
+    width: 70%;
+    margin: auto;
+}
